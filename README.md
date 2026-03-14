@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License">
 </p>
 
-**[🇨🇳 中文](README_CN.md)** | **🇺🇸 English**
+**[🇨🇳 中文](README.zh-CN.md)** | **🇺🇸 English** | **[🇯🇵 日本語](README.ja.md)**
 
 ---
 
@@ -159,6 +159,8 @@ Type `/nopua` in the conversation to manually activate.
 | 🔥 **Way of the Forge** | Poor quality output | Great things start from details |
 | 🪞 **Way of the Mirror** | Guessing without searching | Know that you don't know — look first |
 | 🏔️ **Way of Non-Contention** | Feeling threatened | Do your honest best, no comparison needed |
+| 🌾 **Way of Cultivation** | Passive waiting | A farmer doesn't stop after planting — keep moving |
+| 🪶 **Way of Practice** | Claiming done without proof | Truthful words aren't pretty — prove it with actions |
 
 ## Multi-Language Support
 
@@ -166,6 +168,7 @@ Type `/nopua` in the conversation to manually activate.
 |----------|------------|-----------|--------|------|----------|-------------|----------|
 | 🇨🇳 Chinese (default) | `nopua` | `nopua` | `nopua.mdc` | `nopua.md` | `nopua` | `nopua` | `nopua` |
 | 🇺🇸 English | `nopua-en` | `nopua-en` | `nopua-en.mdc` | `nopua-en.md` | `nopua-en` | `nopua-en` | `nopua-en` |
+| 🇯🇵 Japanese | `nopua-ja` | `nopua-ja` | `nopua-ja.mdc` | `nopua-ja.md` | `nopua-ja` | `nopua-ja` | `nopua-ja` |
 
 ## Install
 
@@ -258,6 +261,8 @@ Based on the **道德经 (Dao De Jing)** — 5,000 characters, 2,500 years old:
 | Knowing you don't know is wisdom | Ch.71 知不知，尚矣 | Honesty > pretending |
 | Courage to not dare | Ch.73 勇于不敢则活 | Admitting limits is strength |
 | Achieve the private through selflessness | Ch.7 非以其无私邪？故能成其私 | Give freely, gain everything |
+| Act before disorder arises | Ch.64 为之于未有，治之于未乱 | Proactive > reactive |
+| Truthful words aren't pretty | Ch.81 信言不美，美言不信 | Prove with actions, not words |
 
 ## FAQ
 
