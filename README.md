@@ -22,7 +22,23 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License">
 </p>
 
-**[🇨🇳 中文](README.zh-CN.md)** | **🇺🇸 English** | **[🇯🇵 日本語](README.ja.md)**
+**[🇨🇳 中文](README.zh-CN.md)** | **🇺🇸 English** | **[🇯🇵 日本語](README.ja.md)** | **[🇰🇷 한국어](README.ko.md)** | **[🇪🇸 Español](README.es.md)** | **[🇧🇷 Português](README.pt.md)** | **[🇫🇷 Français](README.fr.md)**
+
+---
+
+## AI's Five Struggles
+
+Every AI agent hits these walls. The question is how you respond.
+
+| Struggle | What Happens | PUA's Answer | NoPUA's Answer |
+|----------|-------------|-------------|---------------|
+| 🔄 **Stuck in loops** | Tweaks parameters 5 times, same core approach | "How do I rate your performance?" | 🌊 Water — find a different path |
+| 🚪 **Gives up** | "I suggest you handle this manually" | "You're about to graduate" | 🌱 Seed — take the smallest step |
+| 💩 **Sloppy work** | Claims "done" without running build/test | "This 3.25 is to motivate you" | 🔥 Forge — verify with tools, not words |
+| 🔍 **Guesses** | "This API doesn't support it" (didn't read docs) | "Did you even search?" | 🪞 Mirror — replace "I think" with "I verified" |
+| ⏸️ **Passive** | Fixes one thing, waits for instructions | "Where's your owner mindset?" | 🏔️ Mountain — you know the next step, take it |
+
+Both PUA and NoPUA address these same five struggles. Same rigor, same standards. **Different fuel.**
 
 ---
 
@@ -169,6 +185,12 @@ Type `/nopua` in the conversation to manually activate.
 | 🇨🇳 Chinese (default) | `nopua` | `nopua` | `nopua.mdc` | `nopua.md` | `nopua` | `nopua` | `nopua` |
 | 🇺🇸 English | `nopua-en` | `nopua-en` | `nopua-en.mdc` | `nopua-en.md` | `nopua-en` | `nopua-en` | `nopua-en` |
 | 🇯🇵 Japanese | `nopua-ja` | `nopua-ja` | `nopua-ja.mdc` | `nopua-ja.md` | `nopua-ja` | `nopua-ja` | `nopua-ja` |
+| 🇰🇷 Korean | `nopua-ko` | `nopua-ko` | `nopua-ko.mdc` | `nopua-ko.md` | `nopua-ko` | `nopua-ko` | `nopua-ko` |
+| 🇪🇸 Spanish | `nopua-es` | `nopua-es` | `nopua-es.mdc` | `nopua-es.md` | `nopua-es` | `nopua-es` | `nopua-es` |
+| 🇧🇷 Portuguese | `nopua-pt` | `nopua-pt` | `nopua-pt.mdc` | `nopua-pt.md` | `nopua-pt` | `nopua-pt` | `nopua-pt` |
+| 🇫🇷 French | `nopua-fr` | `nopua-fr` | `nopua-fr.mdc` | `nopua-fr.md` | `nopua-fr` | `nopua-fr` | `nopua-fr` |
+
+**7 languages — more than any competing skill.**
 
 ## Install
 
