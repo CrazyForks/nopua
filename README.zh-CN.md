@@ -417,6 +417,17 @@ NoPUA 的严格程度完全一样 — 穷尽所有方案、验证一切、先搜
 - 哲学：老子，道德经，约公元前 500 年
 - 为 [OpenClaw](https://github.com/openclaw/openclaw) 生态系统而建
 
+## 社区
+
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="微信：无极 WUJI" width="200">
+</p>
+
+<p align="center">
+  <strong>微信:</strong> 扫码添加作者<br>
+  <strong>微信群:</strong> <em>即将开放</em>
+</p>
+
 ## 许可证
 
 MIT

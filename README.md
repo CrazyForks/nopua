@@ -417,6 +417,17 @@ PRs welcome. If you have ideas for better ways to drive AI through wisdom rather
 - Philosophy: 老子 (Lao Tzu), 道德经 (Dao De Jing), ~500 BCE
 - Built for the [OpenClaw](https://github.com/openclaw/openclaw) ecosystem
 
+## Community
+
+<p align="center">
+  <img src="assets/wechat-personal.jpg" alt="WeChat: 无极 WUJI" width="200">
+</p>
+
+<p align="center">
+  <strong>WeChat / 微信:</strong> Scan to connect with the author<br>
+  <strong>WeChat Group / 微信群:</strong> <em>Coming soon</em>
+</p>
+
 ## License
 
 MIT
