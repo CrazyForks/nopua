@@ -418,6 +418,51 @@ Because 2,500 years ago, someone figured out that the best leadership doesn't fe
 
 You could, but they'll conflict. PUA tells the AI "you'll be replaced if you fail." NoPUA tells the AI "you're capable and this is worth doing well." These are fundamentally different mental states. Pick one.
 
+## Advanced: Custom Integration for Power Users
+
+NoPUA is designed as a standalone skill — install it and it works. But if you already have a sophisticated skill stack (SOUL.md, AGENTS.md, custom workflow rules, etc.), you may find that NoPUA's full 29KB overlaps with your existing methodology or conflicts with your specific workflow standards.
+
+**This is expected.** NoPUA intentionally contains both the "Dao" (philosophy, beliefs, cognitive framework) and the "Shu" (methodology, checklists, process). Most users need both. Power users may already have the "Shu" covered.
+
+### Option 1: Use Full NoPUA (Recommended for most users)
+
+Just install it. The full version works best when:
+- You don't have other methodology/process skills installed
+- You're using a weaker model that benefits from detailed guidance
+- You want a single, complete system
+
+29KB sounds large, but it's only ~3-5% of a 128K-200K context window. The redundancy is intentional — multiple phrasings help weaker models understand the intent.
+
+### Option 2: Extract the Spiritual Core (Power users)
+
+If you have existing workflow rules and only want NoPUA's unique philosophical layer, extract the "Dao" and merge it into your own system prompt (e.g., `claude.md`, `AGENTS.md`):
+
+**What's unique to NoPUA (keep these):**
+- Three Beliefs — motivation rewrite (values > fear)
+- Cognitive Elevation — failure count → perspective height, not pressure
+- Inner Voices — self-questioning, not external criticism
+- Seven Ways — philosophical wisdom for failure modes
+- Honest Self-Check — "signals" not "excuses"
+- Responsible Exit — admitting limits is courage
+
+**What overlaps with common skills (can skip if covered):**
+- Water Methodology 5 steps → systematic-debugging
+- Delivery Checklist → verification-before-completion
+- Proactivity Spectrum → workflow standards
+- Agent Team protocol → team-driven-development
+
+A lite template is available at [`examples/lite-template.md`](examples/lite-template.md) (~3KB) for reference.
+
+### Option 3: Situational Loading
+
+Keep NoPUA uninstalled by default. When you hit a tough problem, manually load it:
+- Type `/nopua` in conversation
+- Or ask your agent: "Load the nopua skill for this task"
+
+This gives you full NoPUA power without permanent context overhead.
+
+> 大道至简 — The Great Way is simple. Start with the full version. As you internalize the Dao, you'll naturally know what to keep and what to let go. First have, then simplify, then transcend.
+
 ## Contributing
 
 PRs welcome. If you have ideas for better ways to drive AI through wisdom rather than fear, open an issue.
