@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/wechat-group2.jpg" alt="扫码加入微信②群" width="200">
+  <img src="assets/wechat-group3.jpg" alt="扫码加入项目微信群③" width="200">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/wechat-personal.jpg" alt="添加作者微信" width="200">
 </p>
 
 <p align="center">
-  微信②群（①群已满200人） &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 添加作者微信
+  扫码加入项目微信群③（二维码 7 天内有效） &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 添加作者微信
 </p>
 
 <p align="center">
